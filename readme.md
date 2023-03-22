@@ -1,4 +1,4 @@
-# Código de ejemplo para ayudantía
+# Repositorio para el proyecto individual de la asignatura Info248 - Ingeniería de Software
 
 ### Requisitos
 
